@@ -4,7 +4,7 @@ gb.api:
     category-url: 'http://${gb.api.endpoint.base-uri}/internal/api/v1/category'
     product-url: 'http://${gb.api.endpoint.base-uri}/internal/api/v1/product'
     order-url: 'http://${gb.api.endpoint.base-uri}/internal/api/v1/order'
-    user-url: 'http://${gb.api.endpoint.base-uri}/internal/api/v1/user'
+    user-url: 'http://${gb.api.endpoint.base-uri}/api/v1/user'
   connection:
     period: 3000 #Mills
     max-period: 5000 #Mills
