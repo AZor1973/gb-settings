@@ -1,4 +1,5 @@
 gb.api.endpoint.base-uri: 'localhost:8080'
+gb.api.endpoint.external-uri: 'localhost:8081'
 
 spring:
   datasource:
